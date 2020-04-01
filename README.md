@@ -1,0 +1,2 @@
+# react_juejin
+react的第一个实战入门项目，从这个项目来尝试从0构建掘金网页，掌握reactAPI为目标
