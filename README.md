@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# react_juejin
+react的第一个实战入门项目，从这个项目来尝试从0构建掘金网页，掌握reactAPI为目标
+>>>>>>> c376f592d2ff16f4b5a38f81931ae195a6ed1855
